@@ -1,0 +1,13 @@
+.logo{  
+        background-color: blueviolet;
+     
+}
+
+
+.navbar{
+        background-color: darkslateblue;
+          display: flex;
+          width: 100vw;
+          justify-content: space-between;
+}
+
